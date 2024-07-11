@@ -6,4 +6,3 @@ Este projeto realiza uma análise de dados de vendas de um e-commerce, explorand
 - **ecommerce.ipynb**: Notebook Jupyter com a análise detalhada, gráficos e insights.
 - **ecommerce_sales_analysis.csv**: O conjunto de dados utilizado para a análise.
 - **/graficos**: Pasta contendo visualizações e gráficos gerados durante a análise.
-- **README.md**: Descrição do projeto e instruções para reprodução da análise.
